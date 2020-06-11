@@ -1,0 +1,18 @@
+.room{ height: 100%vh;
+text-align: center;}
+
+.lit {background-color: white;
+color: black;}
+
+.dark {background-color:black;
+color:white;}
+
+button{color: teal;
+border-radius: 3ch;
+font-size: 0.5in;
+font-style: italic;
+font-weight: 10px ;
+}
+h1{font-size: 0.6in;
+font-family: Arial, Helvetica, sans-serif;
+font-style: oblique;}
